@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Beverages",
+      "day": "Selasa",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Pasta",
+      "day": "Rabu",
+      "reminder": true
+    },
+    {
+      "text": "Hello world",
+      "day": "Monday",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Do assignment",
+      "day": "Monday",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
